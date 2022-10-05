@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @anu-sin-theta
-- 👀 I’m interested in tech and music.#loveyourself
-- 🌱 I’m currently learning at HCL technologies.
+- 👋 Hi, I’m Anubhav Singh
+- 👀 I’m interested in tech insights, Data analytics and AI/ML.
+- 🌱 Worked at HCL technologies.
 - 💞️ I’m looking to collaborate a newbie support.
 - 📫 How to reach me through my mail (mahindrathar456@gmail.com)
 
