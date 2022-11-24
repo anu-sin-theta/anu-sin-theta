@@ -2,8 +2,7 @@
 - 👀 I’m interested in tech insights, Data analytics and AI/ML. -->
 - 🌱 Worked at HCL technologies.
 <!-- - 💞️ I’m looking to collaborate a newbie support. -->
-- 📫 How to reach me through my mail (mahindrathar456@gmail.com)
-- <h1 align="center">Hi 👋, I'm Anubhav Singh Pundhir</h1>
+- <h1 align="center">🤖Hi, I'm Anubhav Singh Pundhir</h1>
 <h3 align="center">Data Science and Cyber Security geek⚡.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anu-sin-theta&label=Profile%20views&color=0e75b6&style=flat" alt="anu-sin-theta" /> </p>
@@ -21,7 +20,8 @@
 - 📫 How to reach me **https://www.linkedin.com/in/smile-anubhav-singh-861672207/**
 
 - ⚡ Fun fact **Hakuna matata ;)**
-
+- <div align="right">
+<img src= "https://media0.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif?cid=ecf05e47sgjhpcgyl5gnr0jlhcamn67b3conqvvl5slb0lxn&rid=giphy.gif&ct=g" width = "500"></div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anubhav_singh20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anubhav_singh20" height="30" width="40" /></a>
