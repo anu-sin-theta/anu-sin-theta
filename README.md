@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **Hakuna matata ;)**
 - <div align="right">
-<img src= "https://media0.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif?cid=ecf05e47sgjhpcgyl5gnr0jlhcamn67b3conqvvl5slb0lxn&rid=giphy.gif&ct=g" width = "500"></div>
+<img src= "https://media0.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif?cid=ecf05e47sgjhpcgyl5gnr0jlhcamn67b3conqvvl5slb0lxn&rid=giphy.gif&ct=g" width="300" height="200"></div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anubhav_singh20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anubhav_singh20" height="30" width="40" /></a>
@@ -38,7 +38,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anu-sin-theta&" alt="anu-sin-theta" /></p>
 
-
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 <!---
 anu-sin-theta/anu-sin-theta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
