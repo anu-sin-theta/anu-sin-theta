@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Cryptohuk and decryptors 🚀**
 
-- 🌱 I’m currently learning **Numpy and pandas**
+- 🌱 I’m currently learning **IIoT, AI, and cloud**
 
 - 🤝 I’m looking for help with [Cryptohuk](cryptohuk.com)
 
