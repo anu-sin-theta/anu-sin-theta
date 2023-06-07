@@ -1,31 +1,32 @@
 <!--  👋 Hi, I’m Anubhav Singh
-- 👀 I’m interested in tech insights, Data analytics and AI/ML. -->
-- 🌱 Worked at HCL technologies.
+- 👀 I’m interested in tech insights, IIoTxAI/ML, cloud and cybersecurity stuff. -->
+- 🌱 Worked at HCL technologies as project intern
+- InfyBytes AI labs as content developer.
 <!-- - 💞️ I’m looking to collaborate a newbie support. -->
 - <h1 align="center">🤖Hi, I'm Anubhav Singh Pundhir</h1>
-<h3 align="center">Data Science and Cyber Security geek⚡.</h3>
+<h3 align="center">IIoTxAIML, Azure and Cyber Security geek⚡.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anu-sin-theta&label=Profile%20views&color=0e75b6&style=flat" alt="anu-sin-theta" /> </p>
 
 <p align="left"> <a href="https://twitter.com/anubhav_singh20" target="blank"><img src="https://img.shields.io/twitter/follow/anubhav_singh20?logo=twitter&style=for-the-badge" alt="anubhav_singh20" /></a> </p>
 
-- 🔭 I’m currently working on **Cryptohuk and decryptors 🚀**
+- 🔭 I’m currently working with an **idea to leverage AI, IOT and Cloud to assist farmers🫡🚀**
 
 - 🌱 I’m currently learning **IIoT, AI, and cloud**
 
-- 🤝 I’m looking for help with [Cryptohuk](cryptohuk.com)
+- 🤝 I’m looking for help with [Collaboration with different ideas.]
 
 - 👨‍💻 All of my projects are available at [decryptors.pages.dev](decryptors.pages.dev)
 
-- 📫 How to reach me **https://www.linkedin.com/in/smile-anubhav-singh-861672207/**
+- 📫 How to reach me **(https://www.linkedin.com/in/anubhav-singh-thedatum/)**
 
-- ⚡ Fun fact **Hakuna matata ;)**
+- ⚡ Fun fact **You know why skeletons don't fight?, because they don't have the guts.😂 ;)**
 - <div align="right">
 <img src= "https://media0.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif?cid=ecf05e47sgjhpcgyl5gnr0jlhcamn67b3conqvvl5slb0lxn&rid=giphy.gif&ct=g" width="300" height="200"></div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anubhav_singh20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anubhav_singh20" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/smile-anubhav-singh-861672207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/smile-anubhav-singh-861672207/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anubhav-singh-thedatum/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/smile-anubhav-singh-861672207/" height="30" width="40" /></a>
 <a href="https://instagram.com/instagram.com/anuwrites2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/anuwrites2021" height="30" width="40" /></a>
 </p>
 
@@ -39,7 +40,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anu-sin-theta&" alt="anu-sin-theta" /></p>
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-<!---
-anu-sin-theta/anu-sin-theta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
