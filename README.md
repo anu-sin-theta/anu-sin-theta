@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with [Collaboration with different ideas.]
 
-- 👨‍💻 All of my projects are available at [my_website](anufied.pages.dev)
+- 👨‍💻 All of my projects are available at (https://www.anufied.pages.dev)
 
 - 📫 How to reach me **(https://www.linkedin.com/in/anubhav-singh-thedatum/)**
 
