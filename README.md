@@ -1,9 +1,9 @@
 <!--  👋 Hi, I’m Anubhav Singh
-- 👀 I’m interested in tech insights, IIoT, cloud and cybersecurity stuff. -->
+- 👀 I’m interested in cybersecurity stuff. -->
 Lead | GOOGLE DEVELOPER GROUPS MATHURA 2024-2025
 <!-- - 💞️ I’m looking to collaborate a newbie support. -->
 - <h1 align="center">🤖Hi, I'm Anubhav Singh Pundhir</h1>
-<h3 align="center">IIoTxAIML, Azure and Cyber Security geek⚡.</h3>
+<h3 align="center">Cyber Security, IoT and GCP geek⚡.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anu-sin-theta&label=Profile%20views&color=0e75b6&style=flat" alt="anu-sin-theta" /> </p>
 
