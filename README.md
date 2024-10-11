@@ -1,7 +1,6 @@
 <!--  👋 Hi, I’m Anubhav Singh
-- 👀 I’m interested in tech insights, IIoTxAI/ML, cloud and cybersecurity stuff. -->
-- 🌱 Worked at HCL technologies as project intern
-- InfyBytes AI labs as content developer.
+- 👀 I’m interested in tech insights, IIoT, cloud and cybersecurity stuff. -->
+Lead | GOOGLE DEVELOPER GROUPS MATHURA 2024-2025
 <!-- - 💞️ I’m looking to collaborate a newbie support. -->
 - <h1 align="center">🤖Hi, I'm Anubhav Singh Pundhir</h1>
 <h3 align="center">IIoTxAIML, Azure and Cyber Security geek⚡.</h3>
@@ -12,7 +11,7 @@
 
 - 🔭 I’m currently working with an **idea to leverage AI, IOT and Cloud to assist farmers🫡🚀**
 
-- 🌱 I’m currently learning **IIoT, AI, and cloud**
+- 🌱 I’m specialized in  **Cybersecurity X cloud & IoT**
 
 - 🤝 I’m looking for help with [Collaboration with different ideas.]
 
@@ -20,7 +19,7 @@
 
 - 📫 How to reach me **(https://www.linkedin.com/in/anubhav-singh-thedatum/)**
 
-- ⚡ Fun fact **You know why skeletons don't fight?, because they don't have the guts.😂 ;)**
+- ⚡ Fun fact **Somebody is working harder than you for the same goal as yours**
 - <div align="right">
 <img src= "https://media0.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif?cid=ecf05e47sgjhpcgyl5gnr0jlhcamn67b3conqvvl5slb0lxn&rid=giphy.gif&ct=g" width="300" height="200"></div>
 <h3 align="left">Connect with me:</h3>
