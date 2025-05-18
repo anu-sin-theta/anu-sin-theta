@@ -15,7 +15,7 @@ Lead | GOOGLE DEVELOPER GROUPS MATHURA 2024-2025
 
 - 🤝 I’m looking for help with [Collaboration with different ideas.]
 
-- 👨‍💻 All of my projects are available at (https://anufied.pages.dev)
+- 👨‍💻 All of my projects are available at (https://anufied.me)
 
 - 📫 How to reach me **(https://www.linkedin.com/in/anubhav-singh-thedatum/)**
 
@@ -26,7 +26,7 @@ Lead | GOOGLE DEVELOPER GROUPS MATHURA 2024-2025
 <p align="left">
 <a href="https://twitter.com/anubhav_singh20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anubhav_singh20" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anubhav-singh-thedatum/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/smile-anubhav-singh-861672207/" height="30" width="40" /></a>
-<a href="https://instagram.com/instagram.com/anuwrites2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/anuwrites2021" height="30" width="40" /></a>
+<a href="https://instagram.com/instagram.com/the_unfocused_lens" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/anuwrites2021" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
