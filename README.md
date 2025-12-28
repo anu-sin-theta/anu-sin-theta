@@ -1,461 +1,173 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Optimus Prime | Anubhav Singh</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+<div align="center">
 
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: #0a0a0a;
-            color: #fff;
-            overflow-x: hidden;
-        }
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=FF6600&center=true&vCenter=true&width=600&height=100&lines=OPTIMUS+PRIME;ANUBHAV+SINGH;CYBERSECURITY+ARCHITECT;BUILDING+TRISHUL+VIP" alt="Typing SVG" />
+</a>
 
-        .hero {
-            height: 100vh;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            position: relative;
-            background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 50%, #0a0a0a 100%);
-        }
+<br/>
 
-        .hero::before {
-            content: '';
-            position: absolute;
-            width: 100%;
-            height: 100%;
-            background: 
-                radial-gradient(circle at 20% 50%, rgba(0, 255, 255, 0.1) 0%, transparent 50%),
-                radial-gradient(circle at 80% 50%, rgba(255, 0, 255, 0.1) 0%, transparent 50%);
-            animation: pulse 8s ease-in-out infinite;
-        }
+![Profile Views](https://komarev.com/ghpvc/?username=anu-sin-theta&label=PROFILE%20VIEWS&color=ff6600&style=for-the-badge&labelColor=0a0a0a)
+[![Twitter Follow](https://img.shields.io/twitter/follow/anubhav_singh20?logo=twitter&style=for-the-badge&color=ff6600&labelColor=0a0a0a)](https://twitter.com/anubhav_singh20)
+[![Security Clearance](https://img.shields.io/badge/SECURITY%20CLEARANCE-LEVEL%205-red?style=for-the-badge&labelColor=0a0a0a)](https://anufied.me)
 
-        @keyframes pulse {
-            0%, 100% { opacity: 0.3; }
-            50% { opacity: 0.6; }
-        }
+</div>
 
-        .title-container {
-            position: relative;
-            z-index: 1;
-            text-align: center;
-            opacity: 0;
-            transform: translateY(50px);
-            animation: fadeInUp 1.5s ease forwards;
-        }
+---
 
-        @keyframes fadeInUp {
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
+## ⚡ MISSION PROFILE
 
-        .main-title {
-            font-size: clamp(3rem, 12vw, 10rem);
-            font-weight: 900;
-            background: linear-gradient(45deg, #00ffff, #ff00ff, #ffff00, #00ffff);
-            background-size: 300% 300%;
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-            animation: gradientShift 5s ease infinite;
-            text-transform: uppercase;
-            letter-spacing: -0.05em;
-            line-height: 0.9;
-            margin-bottom: 0.2em;
-            text-shadow: 0 0 80px rgba(0, 255, 255, 0.5);
-        }
+<table>
+<tr>
+<td width="50%" valign="top">
 
-        @keyframes gradientShift {
-            0%, 100% { background-position: 0% 50%; }
-            50% { background-position: 100% 50%; }
-        }
+### 🛡️ CURRENT OPERATION
+**Building Security Tools**
 
-        .subtitle {
-            font-size: clamp(1.5rem, 4vw, 3rem);
-            font-weight: 300;
-            color: #00ffff;
-            letter-spacing: 0.3em;
-            text-transform: uppercase;
-            margin-top: 1rem;
-            opacity: 0;
-            animation: fadeIn 2s ease 0.5s forwards;
-        }
+Leveraging **AI & IoT Security** to harden agricultural infrastructure. Focusing on securing the supply chain against digital threats while empowering farmers.
 
-        @keyframes fadeIn {
-            to { opacity: 1; }
-        }
+</td>
+<td width="50%" valign="top">
 
-        .tagline {
-            font-size: clamp(1rem, 2vw, 1.5rem);
-            color: #888;
-            margin-top: 2rem;
-            opacity: 0;
-            animation: fadeIn 2s ease 1s forwards;
-        }
+### 💀 PHILOSOPHY
+**"Security is a process, not a product."**
 
-        .scroll-indicator {
-            position: absolute;
-            bottom: 2rem;
-            left: 50%;
-            transform: translateX(-50%);
-            opacity: 0;
-            animation: fadeIn 2s ease 1.5s forwards, bounce 2s ease-in-out 2s infinite;
-        }
+> "Somebody is working harder than you for the same goal."
 
-        @keyframes bounce {
-            0%, 100% { transform: translateX(-50%) translateY(0); }
-            50% { transform: translateX(-50%) translateY(10px); }
-        }
+Driven by offensive security research, relentless red-teaming, and continuous innovation.
 
-        .scroll-indicator::before {
-            content: '↓';
-            font-size: 2rem;
-            color: #00ffff;
-        }
+</td>
+</tr>
+</table>
 
-        section {
-            min-height: 100vh;
-            padding: 5rem 2rem;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            position: relative;
-        }
+---
 
-        .section-title {
-            font-size: clamp(2.5rem, 6vw, 5rem);
-            font-weight: 800;
-            margin-bottom: 3rem;
-            background: linear-gradient(90deg, #00ffff, #ff00ff);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-            text-transform: uppercase;
-            opacity: 0;
-            transform: translateX(-100px);
-            transition: all 1s ease;
-        }
+## 🔱 PROJECT TRISHUL: CLASSIFIED
+### **Vulnerability Intelligence Platform (VIP)**
 
-        .section-title.visible {
-            opacity: 1;
-            transform: translateX(0);
-        }
+> *Currently Under Active Development*
 
-        .content-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 2rem;
-            max-width: 1200px;
-            width: 100%;
-            opacity: 0;
-            transform: translateY(50px);
-            transition: all 1s ease 0.3s;
-        }
+I am architecting **Trishul**, a next-generation Vulnerability Intelligence Platform designed to bridge the gap between asset discovery and threat remediation.
 
-        .content-grid.visible {
-            opacity: 1;
-            transform: translateY(0);
-        }
+<table>
+  <tr>
+    <td width="70%">
+      <ul>
+        <li><b>🕵️ Automated Recon:</b> Advanced asset discovery using customized scanning engines.</li>
+        <li><b>🧠 Intel Aggregation:</b> Real-time CVE correlation with threat actor attribution.</li>
+        <li><b>⚡ Zero-False Positives:</b> AI-driven verification of vulnerability scanners.</li>
+        <li><b>🔐 Tech Stack:</b> Python, NextJS, Intel Feeds, Deep Learning, Shell</li>
+      </ul>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://img.shields.io/badge/STATUS-BUILDING-red?style=for-the-badge&logo=fire&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/ACCESS-RESTRICTED-000000?style=for-the-badge&labelColor=red&color=000000" />
+    </td>
+  </tr>
+</table>
 
-        .card {
-            background: rgba(255, 255, 255, 0.05);
-            backdrop-filter: blur(10px);
-            border: 1px solid rgba(0, 255, 255, 0.2);
-            border-radius: 20px;
-            padding: 2rem;
-            transition: all 0.3s ease;
-            position: relative;
-            overflow: hidden;
-        }
+---
 
-        .card::before {
-            content: '';
-            position: absolute;
-            top: -50%;
-            left: -50%;
-            width: 200%;
-            height: 200%;
-            background: linear-gradient(45deg, transparent, rgba(0, 255, 255, 0.1), transparent);
-            transform: rotate(45deg);
-            transition: all 0.5s ease;
-        }
+## ⚔️ THE ARSENAL (TECH STACK)
 
-        .card:hover::before {
-            left: 100%;
-        }
+### 🔴 OFFENSIVE & DEFENSIVE SECURITY
+| DOMAIN | TOOLKIT | PROFICIENCY |
+|--------|---------|-------------|
+| **🕵️ RECONNAISSANCE** | Nmap, Shodan, Maltego, Wireshark | `██████████` 100% |
+| **💥 EXPLOITATION** | Metasploit, Burp Suite, SQLMap | `████████░░` 85% |
+| **🛡️ CLOUD SECURITY** | GCP Security Command Center, Azure Sentinel, IAM, Incident Management | `█████████░` 90% |
+| **🐧 OS & INFRA** | API Security, Network Hardening, Docker Security | `██████████` 100% |
 
-        .card:hover {
-            transform: translateY(-10px);
-            border-color: rgba(0, 255, 255, 0.6);
-            box-shadow: 0 10px 40px rgba(0, 255, 255, 0.3);
-        }
+### 💻 CORE ENGINEERING
+### 💻 TECHNICAL ARSENAL
+<div align="center">
 
-        .card h3 {
-            color: #00ffff;
-            font-size: 1.5rem;
-            margin-bottom: 1rem;
-            font-weight: 700;
-        }
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-004488?style=for-the-badge&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white" />
 
-        .card p {
-            color: #ccc;
-            line-height: 1.6;
-            position: relative;
-            z-index: 1;
-        }
+<br/>
 
-        .social-links {
-            display: flex;
-            gap: 2rem;
-            margin-top: 2rem;
-            flex-wrap: wrap;
-            justify-content: center;
-        }
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
-        .social-link {
-            width: 60px;
-            height: 60px;
-            border-radius: 50%;
-            background: rgba(255, 255, 255, 0.05);
-            border: 2px solid #00ffff;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            text-decoration: none;
-            color: #00ffff;
-            font-size: 1.5rem;
-            transition: all 0.3s ease;
-            position: relative;
-            overflow: hidden;
-        }
+</div>
 
-        .social-link::before {
-            content: '';
-            position: absolute;
-            width: 0;
-            height: 100%;
-            background: #00ffff;
-            transition: all 0.3s ease;
-            z-index: -1;
-        }
+---
 
-        .social-link:hover::before {
-            width: 100%;
-        }
 
-        .social-link:hover {
-            color: #0a0a0a;
-            transform: scale(1.2) rotate(360deg);
-        }
+## 📊 TACTICAL DATA
 
-        .tech-stack {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 1rem;
-            justify-content: center;
-            max-width: 800px;
-        }
+## 📊 TACTICAL DATA
 
-        .tech-item {
-            padding: 0.8rem 1.5rem;
-            background: rgba(255, 255, 255, 0.05);
-            border: 1px solid rgba(255, 0, 255, 0.3);
-            border-radius: 50px;
-            color: #ff00ff;
-            font-weight: 600;
-            transition: all 0.3s ease;
-            cursor: pointer;
-        }
+```bash
+┌──(root㉿trishul-vip)-[~/metrics]
+└─$ ./status_report.exe --verbose
 
-        .tech-item:hover {
-            background: rgba(255, 0, 255, 0.2);
-            transform: scale(1.1);
-            box-shadow: 0 5px 20px rgba(255, 0, 255, 0.4);
-        }
+[+] OPERATOR         :: Anubhav Singh (anu-sin-theta)
+[+] ROLE             :: Cybersecurity Architect
+[+] CLEARANCE        :: LEVEL 5 (TOP SECRET)
+---------------------------------------------------
+[i] REPO_COUNT       :: ACTIVE
+[i] COMMIT_STREAK    :: ONLINE
+[i] PRIMARY_STACK    :: Python, C++, Cloud, IoT
+[i] CURRENT_TARGET   :: Project Trishul (VIP)
+---------------------------------------------------
+[!] SYSTEM_MESSAGE   :: "Knowledge is the only defense."
+```
 
-        .cta-button {
-            padding: 1.2rem 3rem;
-            background: linear-gradient(45deg, #00ffff, #ff00ff);
-            border: none;
-            border-radius: 50px;
-            color: #fff;
-            font-size: 1.2rem;
-            font-weight: 700;
-            cursor: pointer;
-            text-decoration: none;
-            display: inline-block;
-            margin-top: 2rem;
-            transition: all 0.3s ease;
-            text-transform: uppercase;
-            letter-spacing: 0.1em;
-        }
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anu-sin-theta&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ff6600&text_color=ffffff" alt="Languages" />
+</div>
 
-        .cta-button:hover {
-            transform: scale(1.05);
-            box-shadow: 0 10px 40px rgba(0, 255, 255, 0.5);
-        }
+---
 
-        .stats {
-            display: flex;
-            gap: 3rem;
-            margin-top: 3rem;
-            flex-wrap: wrap;
-            justify-content: center;
-        }
+## 📡 ESTABLISH UPLINK
 
-        .stat-item {
-            text-align: center;
-        }
+<div align="center">
+  <p>Ready to collaborate on groundbreaking security research? Let's build the future.</p>
 
-        .stat-number {
-            font-size: 3rem;
-            font-weight: 900;
-            color: #00ffff;
-            display: block;
-        }
+  <a href="https://anufied.me">
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-ACCESS_GRANTED-ff6600?style=for-the-badge&logoColor=white&labelColor=0a0a0a" />
+  </a>
+  <a href="https://www.linkedin.com/in/anubhav-singh-thedatum/">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" />
+  </a>
+  <a href="https://twitter.com/anubhav_singh20">
+    <img src="https://img.shields.io/badge/TWITTER-ENCRYPTED_DM-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0a0a0a" />
+  </a>
+  <a href="mailto:anubhav@trishul.com">
+    <img src="https://img.shields.io/badge/EMAIL-SEND_PAYLOAD-ff0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" />
+  </a>
 
-        .stat-label {
-            color: #888;
-            text-transform: uppercase;
-            font-size: 0.9rem;
-            letter-spacing: 0.2em;
-        }
+</div>
 
-        @media (max-width: 768px) {
-            .main-title {
-                font-size: 2.5rem;
-            }
-            .subtitle {
-                font-size: 1rem;
-            }
-        }
-    </style>
-</head>
-<body>
-    <div class="hero">
-        <div class="title-container">
-            <h1 class="main-title">OPTIMUS<br>PRIME</h1>
-            <p class="subtitle">Anubhav Singh</p>
-            <p class="tagline">Cybersecurity × Cloud × IoT Architect</p>
-        </div>
-        <div class="scroll-indicator"></div>
-    </div>
+<div align="center">
+  <br />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <br />
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Footer Wave" width="100%" />
+</div>
 
-    <section id="about">
-        <h2 class="section-title">Mission Statement</h2>
-        <div class="content-grid">
-            <div class="card">
-                <h3>🚀 Current Mission</h3>
-                <p>Leading innovation at Google Developer Groups Mathura 2024-2025. Leveraging AI, IoT, and Cloud technologies to revolutionize agricultural systems and empower farmers worldwide.</p>
-            </div>
-            <div class="card">
-                <h3>⚡ Expertise</h3>
-                <p>Specialized in the convergence of Cybersecurity, Cloud Computing (GCP), and Internet of Things. Building secure, scalable solutions for tomorrow's challenges.</p>
-            </div>
-            <div class="card">
-                <h3>🎯 Philosophy</h3>
-                <p>"Somebody is working harder than you for the same goal as yours" — Driven by continuous improvement and relentless innovation.</p>
-            </div>
-        </div>
-    </section>
+---
 
-    <section id="tech">
-        <h2 class="section-title">Arsenal</h2>
-        <div class="tech-stack">
-            <div class="tech-item">Python</div>
-            <div class="tech-item">AWS</div>
-            <div class="tech-item">Azure</div>
-            <div class="tech-item">GCP</div>
-            <div class="tech-item">Arduino</div>
-            <div class="tech-item">Linux</div>
-            <div class="tech-item">TensorFlow</div>
-            <div class="tech-item">PostgreSQL</div>
-            <div class="tech-item">Git</div>
-            <div class="tech-item">Pandas</div>
-            <div class="tech-item">Seaborn</div>
-        </div>
-        <div class="stats">
-            <div class="stat-item">
-                <span class="stat-number">24/7</span>
-                <span class="stat-label">Innovation Mode</span>
-            </div>
-            <div class="stat-item">
-                <span class="stat-number">∞</span>
-                <span class="stat-label">Possibilities</span>
-            </div>
-            <div class="stat-item">
-                <span class="stat-number">100%</span>
-                <span class="stat-label">Dedication</span>
-            </div>
-        </div>
-    </section>
+<div align="center">
 
-    <section id="connect">
-        <h2 class="section-title">Connect</h2>
-        <p style="color: #888; max-width: 600px; text-align: center; margin-bottom: 2rem; font-size: 1.2rem;">
-            Ready to collaborate on groundbreaking projects? Let's build the future together.
-        </p>
-        <div class="social-links">
-            <a href="https://twitter.com/anubhav_singh20" class="social-link" target="_blank" title="Twitter">𝕏</a>
-            <a href="https://www.linkedin.com/in/anubhav-singh-thedatum/" class="social-link" target="_blank" title="LinkedIn">in</a>
-            <a href="https://instagram.com/the_unfocused_lens" class="social-link" target="_blank" title="Instagram">📷</a>
-            <a href="https://github.com/anu-sin-theta" class="social-link" target="_blank" title="GitHub">⚡</a>
-        </div>
-        <a href="https://anufied.me" class="cta-button" target="_blank">Explore Projects</a>
-    </section>
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="320" height="320" style="border-radius: 50%; border: 2px solid #ff6600;" />
 
-    <script>
-        // Intersection Observer for scroll animations
-        const observerOptions = {
-            threshold: 0.2,
-            rootMargin: '0px 0px -100px 0px'
-        };
+  <br/>
 
-        const observer = new IntersectionObserver((entries) => {
-            entries.forEach(entry => {
-                if (entry.isIntersecting) {
-                    entry.target.classList.add('visible');
-                }
-            });
-        }, observerOptions);
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=3000&pause=1000&color=FF6600&center=true&vCenter=true&width=500&height=50&lines=SYSTEM+STATUS%3A+ONLINE;SECURITY+PROTOCOLS%3A+ACTIVE;THREAT+LEVEL%3A+ZERO;WELCOME+BACK%2C+USER..." alt="Typing SVG" />
+  </a>
 
-        // Observe all section titles and content grids
-        document.querySelectorAll('.section-title, .content-grid, .tech-stack, .social-links').forEach(el => {
-            observer.observe(el);
-        });
+  <br/>
+  
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Footer Wave" width="100%" />
 
-        // Smooth scroll for anchor links
-        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-            anchor.addEventListener('click', function (e) {
-                e.preventDefault();
-                const target = document.querySelector(this.getAttribute('href'));
-                if (target) {
-                    target.scrollIntoView({ behavior: 'smooth' });
-                }
-            });
-        });
-
-        // Parallax effect on hero
-        window.addEventListener('scroll', () => {
-            const scrolled = window.pageYOffset;
-            const hero = document.querySelector('.hero');
-            if (hero) {
-                hero.style.transform = `translateY(${scrolled * 0.5}px)`;
-                hero.style.opacity = 1 - (scrolled / window.innerHeight);
-            }
-        });
-    </script>
-</body>
-</html>
+</div>
