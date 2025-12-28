@@ -103,10 +103,8 @@ I am architecting **Trishul**, a next-generation Vulnerability Intelligence Plat
 
 ## 📊 TACTICAL DATA
 
-## 📊 TACTICAL DATA
-
 ```bash
-┌──(root㉿trishul-vip)-[~/metrics]
+┌──(optimus㉿parrot)-[~/metrics]
 └─$ ./status_report.exe --verbose
 
 [+] OPERATOR         :: Anubhav Singh (anu-sin-theta)
@@ -115,15 +113,12 @@ I am architecting **Trishul**, a next-generation Vulnerability Intelligence Plat
 ---------------------------------------------------
 [i] REPO_COUNT       :: ACTIVE
 [i] COMMIT_STREAK    :: ONLINE
-[i] PRIMARY_STACK    :: Python, C++, Cloud, IoT
+[i] PRIMARY_STACK    :: Python, NodeJS, Cloud security, IoT
 [i] CURRENT_TARGET   :: Project Trishul (VIP)
 ---------------------------------------------------
-[!] SYSTEM_MESSAGE   :: "Knowledge is the only defense."
+[!] SYSTEM_MESSAGE   :: "Cat and Lions comes from a same genetic tree, Lions don't target cat's prey" - This ain't about Lions and cats !
 ```
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anu-sin-theta&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ff6600&text_color=ffffff" alt="Languages" />
-</div>
 
 ---
 
