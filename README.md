@@ -77,7 +77,6 @@ I am architecting **Trishul**, a next-generation Vulnerability Intelligence Plat
 | **🛡️ CLOUD SECURITY** | GCP Security Command Center, Azure Sentinel, IAM, Incident Management | `█████████░` 90% |
 | **🐧 OS & INFRA** | API Security, Network Hardening, Docker Security | `██████████` 100% |
 
-### 💻 CORE ENGINEERING
 ### 💻 TECHNICAL ARSENAL
 <div align="center">
 
@@ -160,9 +159,6 @@ I am architecting **Trishul**, a next-generation Vulnerability Intelligence Plat
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=3000&pause=1000&color=FF6600&center=true&vCenter=true&width=500&height=50&lines=SYSTEM+STATUS%3A+ONLINE;SECURITY+PROTOCOLS%3A+ACTIVE;THREAT+LEVEL%3A+ZERO;WELCOME+BACK%2C+USER..." alt="Typing SVG" />
   </a>
-
-  <br/>
   
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Footer Wave" width="100%" />
 
 </div>
